@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <product>
+        <name>Coenzystar Q10 60 tobolek</name>
+        <code>z37</code>
+        <priceWoTax withTax="340.49">281.40</priceWoTax>
+        <tax>21</tax>
+    </product>
+    <product>
+        <name>Přívěsek NSS75-Panna</name>
+        <code>sTR0495</code>
+        <priceWoTax withTax="74.75">65</priceWoTax>
+        <tax>15</tax>
+    </product>
+    <product>
+        <name>NUTRIextra Cream 200 ml</name>
+        <code>kVI141</code>
+        <priceWoTax withTax="234.55">234.55</priceWoTax>
+        <tax>0</tax>
+    </product>
+    <product>
+        <name>La Vuelta Chrono 16565/4</name>
+        <code>hFE1544</code>
+        <priceWoTax>2749</priceWoTax>
+    </product>
+</root>
